@@ -1,5 +1,4 @@
 # encrypt-data-app
-Simple web app to encrypt data using algorithms:
 A simple web application to encrypt data using the following algorithms:
 - Symmetric encryption:
   - AES in three versions - with 128-bit, 192-bit or 256-bit key,
